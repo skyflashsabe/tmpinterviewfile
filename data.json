@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Stock",
+    "balance": 12141.70
+    "highlight_color": "#FF5733",
+    "details_data": {
+       "title": "stock portfolio details page"
+       "created_time": "01/02/2020"
+    }
+  },
+  {
+    "name": "Crypto",
+    "balance": 5123.09
+    "highlight_color": "#9CFF33",
+    "details_data": {
+       "title": "crypto portfolio details page"
+       "created_time": "05/12/2022"
+    }
+  },
+  {
+    "name": "Cash",
+    "balance": 20123.09
+    "highlight_color": "#15207D",
+    "details_data": {
+       "title": "cash portfolio details page"
+       "created_time": "11/12/2021"
+    }
+  },
+  {
+    "name": "Retirement_1",
+    "balance": 123.09
+    "highlight_color": "#15207D",
+    "details_data": {
+       "title": "retirement portfolio 1"
+       "created_time": "11/12/2021"
+    }
+  },
+  {
+    "name": "Retirement_2",
+    "balance": 123.09
+    "highlight_color": "#15207D",
+    "details_data": {
+       "title": "retirement portfolio 2"
+       "created_time": "11/12/2021"
+    }
+  },
+  {
+    "name": "Retirement_3",
+    "balance": 123.09
+    "highlight_color": "#15207D",
+    "details_data": {
+       "title": "retirement portfolio 3"
+       "created_time": "11/12/2021"
+    }
+  },
+  {
+    "name": "Retirement_4",
+    "balance": 123.09
+    "highlight_color": "#15207D",
+    "details_data": {
+       "title": "retirement portfolio 4"
+       "created_time": "11/12/2021"
+    }
+  },
+  {
+    "name": "Retirement_5",
+    "balance": 123.09
+    "highlight_color": "#15207D",
+    "details_data": {
+       "title": "retirement portfolio 5"
+       "created_time": "11/12/2021"
+    }
+  },
+]
